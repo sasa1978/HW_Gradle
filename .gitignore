@@ -1,0 +1,6 @@
+# Default ignored files
+*/build
+.gradle/
+gradle/
+.idea/
+gradlew*
